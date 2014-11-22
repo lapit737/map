@@ -1,4 +1,4 @@
-map
-===
+newschoolmap
+============
 
-Map for News Narrative and Design II 
+Interactive map of New School
